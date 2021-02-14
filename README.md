@@ -1,2 +1,2 @@
 # showcase-SQL
-MS SQL Server Samples
+MS SQL Server Projects
